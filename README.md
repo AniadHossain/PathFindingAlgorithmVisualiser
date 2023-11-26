@@ -2,12 +2,12 @@
 
 ***
 Program utilising grids to visualise how the A* and Dijkstra algorithm find the shortest path between a start node and an end node with barriers in between them.
--Orange square represents the start node.
--Turquoise square represents the end node.
--Black square represents a barrier.
--Green sqaure represents that this node has not been completely explored.
--Red square represents that this node has been completely explored.
--Purple square represents a node in the shortest path found from start to end.
+- Orange square represents the start node.
+- Turquoise square represents the end node.
+- Black square represents a barrier.
+- Green sqaure represents that this node has not been completely explored.
+- Red square represents that this node has been completely explored.
+- Purple square represents a node in the shortest path found from start to end.
 
 ## How to use the program
 
